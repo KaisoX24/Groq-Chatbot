@@ -30,5 +30,20 @@ A simple Streamlit-based chat application that interacts with the [Groq API](htt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chat-with-llama.git
+   git clone https://github.com/KaisoX24/Groq-Chatbot.git
    cd chat-with-llama
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+3.**Set your Groq API key**
+Create a .env file and set api_key:
+   ```bash
+   GROQ_API_KEY=your_groq_api_key_here
+   ```
+4.**Run the App**
+   ```bash
+   streamlit run main.py
+   ```
+---
