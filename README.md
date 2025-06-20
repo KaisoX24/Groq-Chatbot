@@ -37,12 +37,12 @@ A simple Streamlit-based chat application that interacts with the [Groq API](htt
    ```bash
    pip install -r requirements.txt
 
-3.**Set your Groq API key**
+3. **Set your Groq API key**
 Create a .env file and set api_key:
    ```bash
    GROQ_API_KEY=your_groq_api_key_here
    ```
-4.**Run the App**
+4. **Run the App**
    ```bash
    streamlit run main.py
    ```
