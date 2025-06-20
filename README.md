@@ -40,7 +40,7 @@ Groq-Chatbot/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/KaisoX24/Groq-Chatbot.git
-   cd chat-with-llama
+   cd Groq-Chatbot
 
 2. **Install Dependencies**
    ```bash
