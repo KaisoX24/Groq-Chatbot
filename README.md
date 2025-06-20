@@ -56,3 +56,8 @@ Create a .env file and set api_key:
    streamlit run main.py
    ```
 ---
+## 👤 Author
+Developed by Pramit Acharjya
+---
+## 📄 License
+This project is licensed under the MIT License.
