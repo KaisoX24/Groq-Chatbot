@@ -26,13 +26,13 @@ A simple Streamlit-based chat application that interacts with the [Groq API](htt
 
 ---
 ## 📁 File Structure
-
+```bash
 Groq-Chatbot/
 │
 ├── main.py              # Main application script
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
-
+```
 ---
 
 ## 🛠️ Installation
