@@ -25,6 +25,15 @@ A simple Streamlit-based chat application that interacts with the [Groq API](htt
 | **os**         | Environment variable management               |
 
 ---
+## 📁 File Structure
+
+Groq-Chatbot/
+│
+├── main.py              # Main application script
+├── requirements.txt    # Python dependencies
+└── README.md           # Project documentation
+
+---
 
 ## 🛠️ Installation
 
